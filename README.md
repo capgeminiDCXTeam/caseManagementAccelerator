@@ -1,1 +1,1 @@
-# caseManagementAccelerator
+# Case Management Accelerator
